@@ -1,7 +1,7 @@
 # Olá 👋, muito prazer! Eu sou Bruno Rocha 
 
 ### Sobre
-Em 2013 comecei a estudar programação por indicação do meu Pai, que atua na área de tecnologia. no mesmo ano ingressei na faculdade, em 2017 concluí Análise e Desenvolvimento de Sistemas, que atualmente estou me especializando em Full Stack e com a vontade de sempre aprender mais.
+Em 2013 comecei a estudar programação por indicação do meu Pai, que atua na área de tecnologia. no mesmo ano ingressei na faculdade e em 2017 me formei em Análise e Desenvolvimento de Sistemas, que atualmente estou me especializando em Full Stack e com a vontade de sempre aprender mais.
 
 Soft Skills: ☑ HTML ☑ CSS ☑ JavaScript ☑ TypeScript ☑ ReactJS ☑ Git ☑ Figma ☑ PostgreSQL
 

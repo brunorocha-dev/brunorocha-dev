@@ -5,7 +5,7 @@ Em 2013 comecei a estudar programação por indicação do meu Pai, que atua na 
 
 Soft Skills: ☑ HTML ☑ CSS ☑ JavaScript ☑ TypeScript ☑ ReactJS ☑ Git ☑ Figma ☑ PostgreSQL
 
-- 🔭 Atualmente trabalho com Full Stack Developer na minha empresa no ramo de salgados.
+- 🔭 Atualmente eu sou Sócio, Proprietário e Front-end na minha empresa no ramo alimentício.
 - 🌱 Estudando NodeJS
 - 📫 ☑ Email: brunorocha.freitass@hotmail.com, ☑ Skype: brunorocha.freitass 
 

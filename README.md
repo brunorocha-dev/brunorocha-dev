@@ -3,7 +3,7 @@
 ### Sobre
 Em 2013 comecei a estudar programação por indicação do meu Pai, que atua na área de tecnologia. no mesmo ano ingressei na faculdade e em 2017 me formei em Análise e Desenvolvimento de Sistemas, que atualmente estou me especializando em Full Stack e com a vontade de sempre aprender mais.
 
-Soft Skills: ☑ HTML ☑ CSS ☑ JavaScript ☑ TypeScript ☑ ReactJS ☑ Git ☑ Figma ☑ PostgreSQL
+Soft Skills: ☑ Adaptabilidade ☑ Comunicação eficaz ☑ Trabalho em equipe ☑ Pensamento criativo ☑ Curiosidade e aprendizado contínuo
 
 - 🔭 Atualmente eu sou Sócio, Proprietário e Front-end na minha empresa no ramo alimentício.
 - 🌱 Estudando NodeJS
@@ -16,13 +16,13 @@ Soft Skills: ☑ HTML ☑ CSS ☑ JavaScript ☑ TypeScript ☑ ReactJS ☑ Git 
 
 ### Tecnologias e Ferramentas:
 <div>
+<img align="center" alt="csharp" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />    
+<img align="center" alt=".net" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />  
 <img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
-<img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />          
-<img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
+<img align="center" alt="Bruno-Js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                                                                                                                         
+<img align="center" alt="mysql" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="git" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
 </div>
 
 ### GitHub Stats

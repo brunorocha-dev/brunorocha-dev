@@ -6,7 +6,7 @@ Graduated in Systems Analysis and Development, I am currently specializing in Fu
 Soft Skills: ☑ Adaptability ☑ Effective communication ☑ Teamwork ☑ Creative Thinking ☑ Curiosity and Continuous learning
 
 - 🔭 I am currently a Partner, Owner and Front-end at my company in the food business.
-- 🌱 Studying TypeScript and NodeJS
+- 🌱 Studying C#
 - 📫 ☑ Email: brunorocha.freitass@hotmail.com, ☑ Skype: brunorocha.freitass 
 
 ### Contacts:

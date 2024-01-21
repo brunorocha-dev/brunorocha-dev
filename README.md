@@ -1,30 +1,46 @@
-# Hi, I'm Bruno Rocha
+### Hi, I'm **Bruno Rocha**
 
 Graduated in the Technologist course in Systems Analysis and Development and currently specializing in Software Engineering, DevOps and Cloud Computing.
 
 - 📫 ☑ Email: brunorocha.freitass@gmail.com
 
-Status
-  - 🇧🇷 Living in the North East of Brazil
-  - 👶Parenting
-  - 🚴Riding Gravel Bycicle
-  - 👷Working on Lanlink
-  - 🎵Listening Progressive Metal and some Fado
+#### Status
+  - 🇧🇷  Living in the North East of Brazil
+  - 👶 Parenting
+  - ⚽ I love soccer
+  - 👷 Working on Lanlink
 
-Programming Languages
-  - 🐍 Python
-  - 🐚 Shell Script
-  - 🦫 Go
+#### Reach me on
 
-Tooling
-  - 🌌 DevOps
-  - 👾 Endeavour OS (Arch Linux)
-  - 🚢 Starship - Terminal Prompt
-  - 🖥️ ZSH - Terminal Framework
-  - 🧭 Delta - Better git diff
-  - 🧬 Helix Editor       
+- 🐦 https://Twitter.com/brunorochadev
+- 📷 https://instagram.com/brunorocha_dev
+- 👷 https://linkedin.com/in/bruno-rocha-freitas
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorocha-dev&show_icons=true&theme=dark)
-### 🏴 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorocha-dev&hide_progress=true&theme=dark)](https://github.com/brunorocha-dev/github-readme-stats)
+#### Programming Languages
+
+- 🐍 Python
+- 🐚 Shell Script
+- 💻 C
+- 🕸️ JavaScript
+
+#### Tooling 
+
+- 👾 Flask
+- ♒ Swagger
+- ♻️ PyTest
+- 🚩 Git
+- 🖲️ WebSocket
+- 🔌 Flask-SocketIO
+- ☁️ AWS
+- 🚢 Starship - Terminal Prompt
+- 🖥️ WSL - Terminal Framework
+- 🧬 Helix Editor
+- [dotfiles](https://github.com/brunorocha-dev/dotfiles)      
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunorocha-dev" alt="brunorocha-dev" /> </p>
+---
+<summary>More metrics</summary>
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rochacbruno&skills=python,shell,html,javascript" width="800" />
+
+</details>

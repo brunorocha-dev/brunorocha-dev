@@ -13,7 +13,7 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 #### Reach me on
 
 - 🐦 https://Twitter.com/brunorochadev
-- 📷 https://instagram.com/brunorocha_dev
+- 📷 https://instagram.com/brunorocha.dev
 - 👷 https://linkedin.com/in/bruno-rocha-freitas
 
 #### Programming Languages

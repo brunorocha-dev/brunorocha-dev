@@ -20,7 +20,7 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 
 - 🐍 Python
 - 🐚 Shell Script
-- 🐹 GO
+- 🐹 Go
 - 🕸️ JavaScript
 
 #### Tooling 

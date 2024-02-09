@@ -20,7 +20,6 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 
 - 🐍 Python
 - 🐚 Shell Script
-- 🐹 Go
 - 🕸️ JavaScript
 
 #### Tooling 
@@ -32,9 +31,9 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 - 🖲️ WebSocket
 - 🔌 Flask-SocketIO
 - ☁️ AWS
-- 🚢 Starship - Terminal Prompt
-- 🖥️ WSL - Terminal Framework
-- 🧬 Helix Editor
+- 🚢 Spaceship - Terminal Prompt
+- 🖥️ ZSH - Terminal Framework
+- 🐧 WSL2 - Ubuntu
 - [dotfiles](https://github.com/brunorocha-dev/dotfiles)      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunorocha-dev" alt="brunorocha-dev" /> </p>

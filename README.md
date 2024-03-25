@@ -7,7 +7,7 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 #### Status
   - 🇧🇷  Living in the North East of Brazil
   - 👶 Parenting
-  - ⚽ I love soccer
+  - ⚽🏎️ I love soccer & F1
   - 👷 Working on Lanlink
 
 #### Reach me on
@@ -37,9 +37,3 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 - [dotfiles](https://github.com/brunorocha-dev/dotfiles)      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunorocha-dev" alt="brunorocha-dev" /> </p>
----
-<summary>More metrics</summary>
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rochacbruno&skills=python,shell,html,javascript" width="800" />
-
-</details>

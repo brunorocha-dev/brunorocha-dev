@@ -5,35 +5,36 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 - 📫 ☑ Email: brunorocha.freitass@gmail.com
 
 #### Status
-  - 🇧🇷  Living in the North East of Brazil
-  - 👶 Parenting
-  - ⚽🏎️ I love soccer & F1
-  - 👷 Working on Lanlink
+
+- 🇧🇷 Living in the North East of Brazil
+- 👶 Parenting
+- ⚽ I love soccer
+- 👷 Working on Lanlink
 
 #### Reach me on
 
 - 🐦 https://Twitter.com/brunorochadev
-- 📷 https://instagram.com/brunorocha.dev
+- 📷 https://instagram.com/brunorocha.io
 - 👷 https://linkedin.com/in/bruno-rocha-freitas
 
 #### Programming Languages
 
+- 🔯.NET
+- 🗔 C#
 - 🐍 Python
+- 📁 SQL Server
 - 🐚 Shell Script
-- 🐹 Go
 
-#### Tooling 
+#### Tooling
 
-- 👾 Flask
+- ☁️ Azure
 - ♒ Swagger
 - ♻️ PyTest
 - 🚩 Git
 - 🖲️ WebSocket
-- 🔌 Flask-SocketIO
-- ☁️ AWS
 - 🚢 Spaceship - Terminal Prompt
 - 🖥️ ZSH - Terminal Framework
 - 🐧 WSL2 - Ubuntu
-- [dotfiles](https://github.com/brunorocha-dev/dotfiles)      
+- [dotfiles](https://github.com/brunorocha-dev/dotfiles)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunorocha-dev" alt="brunorocha-dev" /> </p>

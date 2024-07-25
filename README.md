@@ -2,39 +2,26 @@
 
 Graduated in the Technologist course in Systems Analysis and Development and currently specializing in Software Engineering, DevOps and Cloud Computing.
 
-- 📫 ☑ Email: brunorocha.freitass@gmail.com
+#### Programming Languages
 
-#### Status
+- 🐍 Python
+- 🐚 Shell Script
+- 🗔 C#
+- 📁 SQL Server
 
-- 🇧🇷 Living in the North East of Brazil
-- 👶 Parenting
-- ⚽ I love soccer
-- 👷 Working on Lanlink
+#### I use
+
+- 🐧 Zorin OS
+- 🖥️ Warp - Terminal Prompt
+- 🚢 ZSH - Terminal Framework
+- 📄 Nano Editor
+- 🚩 Git
 
 #### Reach me on
 
-- 🐦 https://Twitter.com/brunorochadev
-- 📷 https://instagram.com/brunorocha.io
+- 📫 ☑ Email: brunorocha.freitass@gmail.com
 - 👷 https://linkedin.com/in/bruno-rocha-freitas
-
-#### Programming Languages
-
-- 🔯.NET
-- 🗔 C#
-- 🐍 Python
-- 📁 SQL Server
-- 🐚 Shell Script
-
-#### Tooling
-
-- ☁️ Azure
-- ♒ Swagger
-- ♻️ PyTest
-- 🚩 Git
-- 🖲️ WebSocket
-- 🚢 Spaceship - Terminal Prompt
-- 🖥️ ZSH - Terminal Framework
-- 🐧 WSL2 - Ubuntu
-- [dotfiles](https://github.com/brunorocha-dev/dotfiles)
+- 🐦 https://Twitter.com/brunorochadev
+- 📷 https://instagram.com/brunorocha.gnu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunorocha-dev" alt="brunorocha-dev" /> </p>

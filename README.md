@@ -12,14 +12,14 @@ Graduated in the Technologist course in Systems Analysis and Development and cur
 #### I use
 
 - 🐧 Zorin OS
-- 🖥️ Warp - Terminal Prompt
+- 💻 Warp - Terminal Prompt
 - 🚢 ZSH - Terminal Framework
 - 📄 Nano Editor
 - 🚩 Git
 
 #### Reach me on
 
-- 📫 ☑ Email: brunorocha.freitass@gmail.com
+- 📫 brunorocha.freitass@gmail.com
 - 👷 https://linkedin.com/in/bruno-rocha-freitas
 - 🐦 https://Twitter.com/brunorochadev
 - 📷 https://instagram.com/brunorocha.gnu
